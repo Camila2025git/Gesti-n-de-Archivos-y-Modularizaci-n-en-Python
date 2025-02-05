@@ -1,5 +1,3 @@
-ï¿½Hola, mundo!
-ï¿½Mï¿½s datos para el archivo!
-ï¿½Mï¿½s datos para el archivo!
-ï¿½Mï¿½s datos para el archivo!
-ï¿½Hola
+¡Hola, mundo!
+¡Más datos para el archivo!
+¡Más datos para el archivo!
